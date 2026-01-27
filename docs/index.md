@@ -180,4 +180,4 @@ Additional Resources
 * [ArcGIS Online: Information, Tutorials, and Workshops](https://mdl.library.utoronto.ca/technology/tutorials/arcgis-online-information-tutorials-and-workshops)
 * [Accessing Online GIS Classes in Esri Academy](https://mdl.library.utoronto.ca/technology/tutorials/how-access-online-gis-classes-esri-academy)
 
-Technique: [Georeferencing](/technique/georeferencing) | Tools: [ArcGIS Online](/taxonomy/term/69) | Data Format: [Raster](/data-format/raster)
+Technique: [Georeferencing](https://mdl.library.utoronto.ca/technique/georeferencing) | Tools: [ArcGIS Online](/taxonomy/term/69) | Data Format: [Raster](https://mdl.library.utoronto.ca/data-format/raster)
