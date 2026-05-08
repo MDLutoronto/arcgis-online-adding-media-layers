@@ -2,6 +2,13 @@
 title: "Saving"
 parent: "Adding Media Layers in ArcGIS Online"
 layout: default
+staff:
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-03-15
 nav_order: 6
 ---
 
@@ -16,3 +23,5 @@ nav_order: 6
     <img src='{{ '/assets/images/Media%20Layer_Saving_002.png' | relative_url }}' alt='The save pop-up menu. The title and save button have been highlighted. ' title='' width='514' height='537' />
 
 And that's it!
+
+**Technique:** [Georeferencing](https://mdlutoronto.github.io/tutorials-search/?technique=Georeferencing) \| **Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)

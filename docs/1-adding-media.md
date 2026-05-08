@@ -2,6 +2,13 @@
 title: "Adding Media"
 parent: "Adding Media Layers in ArcGIS Online"
 layout: "default"
+staff:
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-03-15
 nav_order: 1
 ---
 
@@ -33,3 +40,5 @@ nav_order: 1
     <img src='{{ '/assets/images/Media%20Layer_Adding%20Media_005.png' | relative_url }}' alt='An overlay of image v2-1910-172 over a map of the world. The image is at 50% transparency.' title='' width='1397' height='1272' />
 
 5. Now that the image has been added, we can begin to move and manipulate it.
+
+**Technique:** [Georeferencing](https://mdlutoronto.github.io/tutorials-search/?technique=Georeferencing) \| **Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)
