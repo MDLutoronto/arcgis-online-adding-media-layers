@@ -2,6 +2,13 @@
 title: "Repositioning Media"
 parent: "Adding Media Layers in ArcGIS Online"
 layout: default
+staff:
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-03-15
 nav_order: 2
 ---
 
@@ -30,3 +37,5 @@ First, let's move it closer to the actual area.
     <img src='{{ '/assets/images/Media%20Layer_Repositioning%20Media_003.png' | relative_url }}' alt='A button with two arrows is selected. There are base map options open. ' title='' width='377' height='738' />
 
 Let's leave the base map for now.
+
+**Technique:** [Georeferencing](https://mdlutoronto.github.io/tutorials-search/?technique=Georeferencing) \| **Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)

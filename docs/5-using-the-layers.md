@@ -2,6 +2,13 @@
 title: "Using the Layer"
 parent: "Adding Media Layers in ArcGIS Online"
 layout: default
+staff:
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-03-15
 nav_order: 5
 ---
 
@@ -21,3 +28,5 @@ nav_order: 5
     <img src='{{ '/assets/images/Media%20Layer_Using%20the%20Layer_003_0.png' | relative_url }}' alt="Under the layers menu, the image's layer is selected. Show properties is selected underneath. " title='' width='468' height='317' />
 
     <img src='{{ '/assets/images/Media%20Layer_Using%20the%20Layer_003b.png' | relative_url }}' alt='In the properties menu, the Edit Placed Media button is selected. ' title='' width='423' height='793' /> 
+
+**Technique:** [Georeferencing](https://mdlutoronto.github.io/tutorials-search/?technique=Georeferencing) \| **Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)

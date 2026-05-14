@@ -2,6 +2,13 @@
 title: "Overlay Manipulation of an Image"
 parent: "Adding Media Layers in ArcGIS Online"
 layout: default
+staff:
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-03-15
 nav_order: 3
 ---
 
@@ -25,3 +32,5 @@ nav_order: 3
     ***Note:*** If you want a reminder of shortcuts that are available in the media editor, on the top left-hand side there are a set of tips.
 
     <img src='{{ '/assets/images/Media%20Layer_Overlay_002b.png' | relative_url }}' alt='The tips button is highlighted. A list of ArcGIS Online shortcuts are in a pop up. ' title='' width='403' height='414' />
+
+**Technique:** [Georeferencing](https://mdlutoronto.github.io/tutorials-search/?technique=Georeferencing) \| **Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)

@@ -2,6 +2,13 @@
 title: "Side-by-side Manipulation of an Image"
 parent: "Adding Media Layers in ArcGIS Online"
 layout: default
+staff:
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-03-15
 nav_order: 4
 ---
 
@@ -30,3 +37,5 @@ nav_order: 4
     At the end, it should look something like this.
 
     <img src='{{ '/assets/images/Media%20Layer_SidebySide_004b_0.png' | relative_url }}' alt='The map image is fully opaque. There is a menu with the layer information. ' title='' width='2024' height='1136' />  
+
+**Technique:** [Georeferencing](https://mdlutoronto.github.io/tutorials-search/?technique=Georeferencing) \| **Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)

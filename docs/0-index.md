@@ -11,6 +11,7 @@ maintainer:
 created_date: 2024-03-15
 nav_order: 1
 has_children: true
+has_toc: false
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -38,4 +39,4 @@ Additional Resources
 * [ArcGIS Online: Information, Tutorials, and Workshops](https://mdl.library.utoronto.ca/technology/tutorials/arcgis-online-information-tutorials-and-workshops)
 * [Accessing Online GIS Classes in Esri Academy](https://mdl.library.utoronto.ca/technology/tutorials/how-access-online-gis-classes-esri-academy)
 
-Technique: [Georeferencing](https://mdlutoronto.github.io/tutorials-search/?technique=Georeferencing) | Tools: [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online) | Data Format: [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)
+**Technique:** [Georeferencing](https://mdlutoronto.github.io/tutorials-search/?technique=Georeferencing) \| **Tools:** [ArcGIS Online](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Online) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)
